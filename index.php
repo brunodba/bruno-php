@@ -2,6 +2,5 @@
 
 	echo "Olá mundo! Estou deitado";
 
-	echo "Olá Udemy";
-
+	echo "Olá Udemy e Hcode";
 ?>
