@@ -1,5 +1,6 @@
 <?php
 
-	echo "Olá mundo!";
-
+	echo "Olá mundo! Estou em Curitiba";
+	
+	echo "Olá Hcode!";
 ?>
